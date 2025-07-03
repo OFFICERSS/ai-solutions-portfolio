@@ -85,20 +85,114 @@
 
 Сами промты на пару страниц A4 каждый.
 
----
+## Аналитик
 
-Если нужно — могу также создать `.md` файл с этим оформлением. Готов продолжать, если будет еще текст.
+1
 
-```mermaid
-graph LR
-    A[Агент №1: Аналитик<br>(Авто-анализ конкурентов)] -->|Отчет по конкурентам| B[Агент №2: Медиастратег<br>(Авто-расчет и аудит)]
-    B -->|Утвержденный медиаплан| C[Агент №3: Семантический ассистент<br>(Human-in-the-Loop)]
-    C -->|Финальное семантическое ядро| D[Агент №4: AI-Копирайтер<br>(Авто-генерация объявлений)]
+![image](https://github.com/user-attachments/assets/f57b9e0f-acef-41a2-9564-36a275e7e3d1)
 
-    %% Стили
-    style A fill:#FFFFFF,stroke:#000000
-    style B fill:#FFFFFF,stroke:#000000
-    style C fill:#FFF9B2,stroke:#000000 %% Светло-желтый фон для Семантического ассистента
-    style D fill:#FFFFFF,stroke:#000000
+2
 
+![image](https://github.com/user-attachments/assets/28daf492-fda7-4cc2-8318-395c0a02f6f1)
+
+3
+
+![image](https://github.com/user-attachments/assets/6d162741-c9d7-4c93-a219-d7903a61bebb)
+
+4
+
+![image](https://github.com/user-attachments/assets/86e7e3d0-8ade-4ca5-92ea-320261e68e92)
+
+5
+
+![image](https://github.com/user-attachments/assets/44e7f90c-7b5c-45f7-b247-6404ccb2ee14)
+
+![image](https://github.com/user-attachments/assets/cfc1ffa3-4818-48dc-8b00-dbd3dcf164e7)
+
+
+
+
+
+## Медиастратег
+
+1
+
+![image](https://github.com/user-attachments/assets/3999a7f9-e66d-4b13-95e1-70f4f8547b3f)
+
+2
+
+![image](https://github.com/user-attachments/assets/d2686725-b649-442b-bcd7-93b31b15e9c0)
+
+3
+
+![image](https://github.com/user-attachments/assets/3f80b90f-47ec-4e2a-8d31-8605f24c8d08)
+
+4
+
+![image](https://github.com/user-attachments/assets/f30ebf76-98e3-4dd5-a074-83057a135d22)
+
+5
+
+![image](https://github.com/user-attachments/assets/7201c0b1-d097-4bef-a419-89af7fdd6990)
+
+6
+
+![image](https://github.com/user-attachments/assets/b7bf1901-0548-4cdb-bec5-27703fcd15d1)
+
+7
+
+![image](https://github.com/user-attachments/assets/5f7117f3-da55-40b6-ac0f-ed3fc9f08a89)
+
+![image](https://github.com/user-attachments/assets/3738522b-d262-434d-a525-b18f961e4138)
+
+![image](https://github.com/user-attachments/assets/b2e7a26f-f382-463b-874d-a94543c8361f)
+
+
+
+## Семантический ассистент
+
+1
+
+![image](https://github.com/user-attachments/assets/bd370660-d68b-43be-87e8-71801cf52112)
+
+2
+
+![image](https://github.com/user-attachments/assets/c319f3a8-f7fb-4144-9d24-78654c44e81f)
+
+3
+
+![image](https://github.com/user-attachments/assets/5a1756a9-5ce8-434a-af7f-316de9292c2d)
+
+4
+
+![image](https://github.com/user-attachments/assets/1641b0fa-827b-41b7-9210-bb6646c4a1ce)
+
+5
+
+![image](https://github.com/user-attachments/assets/58c53bce-6c62-4203-a4d3-5446bab051e0)
+
+6
+
+![image](https://github.com/user-attachments/assets/153cfc22-f184-4034-a7cb-5c895698e425)
+
+
+## Копирайтер (RAG)
+
+1
+
+![image](https://github.com/user-attachments/assets/d1e83b04-5eb7-44ba-a436-dbb2c0e0772d)
+
+2 
+
+![image](https://github.com/user-attachments/assets/8295a98f-d30c-43bd-99ce-eebe6067541f)
+
+3
+
+![image](https://github.com/user-attachments/assets/265ac069-314c-4eca-a25c-b711087c3d7b)
+
+4
+
+![image](https://github.com/user-attachments/assets/a13e9688-6a59-40d2-9687-92e1cde3ba66)
+
+5
 
