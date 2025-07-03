@@ -26,6 +26,25 @@
 * **Методология:** Системный промптинг (Level 8+), Human-in-the-Loop (HITL)
 
 Фрагмент промта. Сам промт на пару страниц А4.
-## 📄 ![image](https://github.com/user-attachments/assets/c7b39508-6e48-4149-84b5-25248e0ee697)
-![image](https://github.com/user-attachments/assets/66b5c172-33e8-46ed-8ebf-0f2166d721a7)
+## 📄 Вводная часть:
+![image](https://github.com/user-attachments/assets/8a4198f1-6e87-4a08-a6fa-f4f136066fbe)
+
+## Сбор данных:
+
+![image](https://github.com/user-attachments/assets/faf614e1-f481-4b8e-aeb5-ebf3fd20c2c0)
+
+## Прописаваем задачи:
+
+![image](https://github.com/user-attachments/assets/b4dadf94-ccfd-4e3a-ac13-824ee7d8192f)
+
+## 2
+
+![image](https://github.com/user-attachments/assets/7c7dd474-c948-4abe-bc21-3868ac1fe3fa)
+
+
+## Формат вывода:
+
+![image](https://github.com/user-attachments/assets/47ff7edd-027f-4eef-9757-88cd18e750d3)
+
+
 
