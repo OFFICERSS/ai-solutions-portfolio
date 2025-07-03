@@ -38,6 +38,7 @@
 
 ![image](https://github.com/user-attachments/assets/16aef422-924e-405b-83d2-e1e5ba48f167)
 
+![image](https://github.com/user-attachments/assets/21e04a0b-d32e-46f6-b45a-7ed77764714c)
 
 
 ## 📈 Результаты
