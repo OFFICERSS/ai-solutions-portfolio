@@ -42,5 +42,5 @@
 
 ### Контакты
 
-* **Telegram:** https://t.me/Y0UNGNIGGA
+* **Telegram:** https://t.me/Dobrynin_AI
 * **Email:** ivan.dobrynin.ai@gmail.com
