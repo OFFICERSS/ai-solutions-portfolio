@@ -190,5 +190,3 @@
 
 ![image](https://github.com/user-attachments/assets/a13e9688-6a59-40d2-9687-92e1cde3ba66)
 
-5
-
