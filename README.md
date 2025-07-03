@@ -5,7 +5,7 @@
 
 ---
 
-###  Kompetencje kluczowe
+###  Ключевые компетенции
 
 `Архитектура AI` `Автоматизация процессов` `Системный промптинг` `Создание AI-агентов` `LangChain` `RAG` `n8n` `API-интеграции` `AI-маркетинг` `AI-копирайтинг` `Автоматизация продаж` `Figma`
 
@@ -37,5 +37,5 @@
 
 ### Контакты
 
-* **Telegram:** [Ваш Telegram]
-* **Email:** [Ваша почта]
+* **Telegram:** https://t.me/Y0UNGNIGGA
+* **Email:** dobryninyt@gmail.com
