@@ -38,4 +38,4 @@
 ### Контакты
 
 * **Telegram:** https://t.me/Y0UNGNIGGA
-* **Email:** dobryninyt@gmail.com
+* **Email:** ivan.dobrynin.ai@gmail.com
